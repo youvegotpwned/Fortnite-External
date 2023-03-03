@@ -1,13 +1,6 @@
 https://streamable.com/hb08pv
 ![Screenshot_547](https://user-images.githubusercontent.com/70964202/169858758-a604bc4f-340b-46d2-bc62-cf3fb29b9b8b.png)
 
-# Gloomy.cc
-
-**External Fortnite Cheat written mostly in C++.**
-
-**Status: Outdated** <br>
-**Reposted**
-
 **Cheat Features:**
 
 **Aimbot**
